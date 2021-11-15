@@ -19,6 +19,7 @@ public class test {
        obj.a=2;
        obj.b=3;
        obj.peform();
+       System.out.print("Start of the program");
        System.out.print("The value is : "+obj.c);
 	}
 
